@@ -5,8 +5,8 @@
 
 #EXTM3U
 
-
-
+#EXTINF:-1,Telefe
+http://imaxplay.net:80/JoaquinSoto01/YRKGD/259317.ts
 
 #EXTINF:-1,directv 1
 http://imaxplay.net:80/JoaquinSoto01/YRKGD/158511.ts
