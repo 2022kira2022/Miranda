@@ -5,6 +5,32 @@
 
 #EXTM3U
 
+
+#EXTINF:-1,Hombre lobo
+http://170.39.192.130:2095/movie/56990776534playtv/220224play/317056.mkv
+
+
+#EXTINF:-1,los Simpson 
+http://170.39.192.130:2095/movie/56990776534playtv/220224play/317682.mkv
+
+#EXTINF:-1,Mufasa
+http://170.39.192.130:2095/movie/56990776534playtv/220224play/317683.mkv
+
+#EXTINF:-1,juicio final
+http://170.39.192.130:2095/movie/56990776534playtv/220224play/6674.mkv
+
+
+
+#EXTINF:-1,VHS
+http://170.39.192.130:2095/movie/56990776534playtv/220224play/271451.mkv
+
+
+#EXTINF:-1,chavo
+http://170.39.192.130:2095/56990776534playtv/220224play/99891
+
+
+
+
 #EXTINF:-1,Telefe
 http://imaxplay.net:80/JoaquinSoto01/YRKGD/259317.ts
 
