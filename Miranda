@@ -13,7 +13,7 @@ http://181.78.105.146:8800/play/a07q
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1,F10
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 
 #EXTINF:-1,capitan 2025
 https://pomf2.lain.la/f/9xka9i7i.mp4?download=
