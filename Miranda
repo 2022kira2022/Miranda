@@ -18,28 +18,42 @@ https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 #EXTINF:-1,capitan 2025
 https://pomf2.lain.la/f/9xka9i7i.mp4?download=
 
-#EXTINF:-1,Hombre lobo
-http://170.39.192.130:2095/movie/56990776534playtv/220224play/317056.mkv
-
-
-#EXTINF:-1,los Simpson 
-http://170.39.192.130:2095/movie/56990776534playtv/220224play/317682.mkv
-
-#EXTINF:-1,Mufasa
-http://170.39.192.130:2095/movie/56990776534playtv/220224play/317683.mkv
-
-#EXTINF:-1,juicio final
-http://170.39.192.130:2095/movie/56990776534playtv/220224play/6674.mkv
 
 
 
-#EXTINF:-1,VHS
-http://170.39.192.130:2095/movie/56990776534playtv/220224play/271451.mkv
+#EXTINF:-1, Distrito comedia 
+http://181.78.105.146:8800/play/a07q
+
+#EXTINF:-1,Conedy central
+http://181.78.105.146:8800/play/a064
+
+#EXTINF:-1,AYE
+http://181.78.105.146:8800/play/a04r
+
+#EXTINF:-1,Fx
+http://181.78.105.146:8800/play/a01y
+
+#EXTINF:-1,Tigo
+http://181.78.105.146:8800/play/a07w
+
+#EXTINF:-1, Space
+http://181.78.105.146:8800/play/a041
+
+#EXTINF:-1,espn
+http://181.78.105.146:8800/play/a08t
 
 
-#EXTINF:-1,chavo
-http://170.39.192.130:2095/56990776534playtv/220224play/99891
+#EXTINF:-1,Star chane
+http://181.78.105.146:8800/play/a06m
 
+#EXTINF:-1,Sony
+http://181.78.105.146:8800/play/a04w
+
+#EXTINF:-1,tNT
+http://181.78.105.146:8800/play/a043
+
+#EXTINF:-1,teen Nick
+http://181.78.105.146:8800/play/a04l
 
 
 
