@@ -19,6 +19,52 @@ https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 https://pomf2.lain.la/f/9xka9i7i.mp4?download=
 
 
+#EXTINF:-1,ATV
+https://live-evg25.tv360.bitel.com.pe:443/bitel/atv/bitel/atv_ori_480p/chunks.m3u8
+
+
+
+#EXTINF:-1, Movistar 
+https://ym9yzq.fubohd.com/movistar/mono.m3u8?token=fadd40d3e9f4a906efb61d64a4df1d8b8cc951ea-aa-1742554661-1742518661
+
+
+
+
+
+#EXTINF:-1,fox SPORT 3
+http://181.78.105.146:8800/play/a056
+
+#EXTINF:-1,fox SPORT 3
+http://181.78.105.146:8800/play/a046
+
+#EXTINF:-1,Tigo
+http://181.78.105.146:8800/play/a07w
+
+#EXTINF:-1,fox premium 
+http://playtv44.com:8080/983979930/123456/66137
+
+#EXTINF:-1,terror
+https://tv.streaming-chile.com:19360/8140/8140.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,películas
+https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ATV
+http://fastream.xyz:8080/54meke98we23be67/47wuma84duwe57/301
+
+#EXTINF:-1,gigo play
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Movistar 
+http://fastream.xyz:8080/54meke98we23be67/47wuma84duwe57/12345
+
+#EXTINF:-1,Movistar 
+http://fastream.xyz:8080/54meke98we23be67/47wuma84duwe57/12399
+
+#EXTINF:-1,Tigo
+http://fastream.xyz:8080/54meke98we23be67/47wuma84duwe57/267922
+
+
 
 
 #EXTINF:-1, Distrito comedia 
