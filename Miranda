@@ -26,6 +26,67 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1,F10
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 
+
+#EXTINF:-1, Chespirito 1
+http://lite.globaldomain.xyz:8080/series/mauricio/e1ypQ3WXfM/127013.mkv
+
+#EXTINF:-1, distrito comedia 
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/9644
+
+#EXTINF:-1,comedia centra
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/9636
+
+#EXTINF:-1,Warner
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/9774
+
+#EXTINF:-1,Warner
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/9776
+
+#EXTINF:-1,Broke girl 
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94845
+
+#EXTINF:-1,40 y 20
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94844
+
+
+#EXTINF:-1,American dad
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94874
+
+#EXTINF:-1,Bob esponja
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/95041
+
+#EXTINF:-1,Boruto
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94887
+
+#EXTINF:-1,brekin bat
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94920
+
+#EXTINF:-1,Disney
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/95624
+
+#EXTINF:-1,parodias
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94978
+
+#EXTINF:-1,DC
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94947
+
+#EXTINF:-1,Drake y josh
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94991
+
+#EXTINF:-1,Futurama
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94877
+
+#EXTINF:-1, Árnol
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/95031
+
+#EXTINF:-1,victorios
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/95647
+
+#EXTINF:-1,familia peluche 
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94859
+
+
+
 #EXTINF:-1,capitan 2025
 https://pomf2.lain.la/f/9xka9i7i.mp4?download=
 
