@@ -30,6 +30,17 @@ https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 #EXTINF:-1, Chespirito 1
 http://lite.globaldomain.xyz:8080/series/mauricio/e1ypQ3WXfM/127013.mkv
 
+#EXTINF:-1,chavo 1
+https://pomf2.lain.la/f/iir6na4t.mp4?download=1
+
+#EXTINF:-1,chavo 2
+https://pomf2.lain.la/f/ox25cubj.mp4?download=1
+
+#EXTINF:-1,chavo 3
+https://pomf2.lain.la/f/ox25cubj.mp4?download=1
+
+
+
 #EXTINF:-1, distrito comedia 
 http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/9644
 
