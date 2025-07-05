@@ -6,19 +6,26 @@
 #EXTM3U
 
 
-#EXTINF:-1,Distrito comedia 
-http://nocable.cc:8080/bfKAm59/xC4vzDQ/57639
+#EXTINF:-1,Magic tv
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1, tu madre
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94857
 
 
-#EXTINF:-1,Digimon
-http://cincotv.org:25461/movie/Juan748ata/Ju1295an/267792.mkv
+#EXTINF:-1,Distrito d
+http://103.111.40.242:9999/play/a015/index.m3u8
 
 
-#EXTINF:-1,wwe
-https://galaxypro.online:2087/Enrike@1/DesEnr@01/602045
+#EXTINF:-1,AYE
+http://103.111.40.242:9999/play/a002/index.m3u8
 
-#EXTINF:-1,wwe2
-https://galaxypro.online:2087/Enrike@1/DesEnr@01/283253
+#EXTINF:-1,Conedy central
+http://103.111.40.242:9999/play/a00y/index.m3u8
+
+#EXTINF:-1,upea tv
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
 
 #EXTINF:-1,Upea tv
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
