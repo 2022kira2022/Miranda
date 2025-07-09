@@ -6,6 +6,44 @@
 #EXTM3U
 
 
+
+#EXTINF:-1,parodias
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94978
+
+
+#EXTINF:-1,Simpson
+http://lite.globaldomain.xyz:8080/movie/mauricio/e1ypQ3WXfM/117602.mkv
+
+
+#EXTINF:-1,la mujer de las sombras
+http://lite.globaldomain.xyz:8080/movie/mauricio/e1ypQ3WXfM/117610.mkv
+
+#EXTINF:-1,El mono
+http://lite.globaldomain.xyz:8080/movie/mauricio/e1ypQ3WXfM/111524.mkv
+
+
+#EXTINF:-1,los Simpson
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94882
+
+#EXTINF:-1,chavo
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94852
+
+#EXTINF:-1,Marvel
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94943
+
+#EXTINF:-1,Marvel 2
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94944
+
+#EXTINF:-1,DC
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94947
+
+
+#EXTINF:-1,Broke girl 
+http://lite.globaldomain.xyz:8080/mauricio/e1ypQ3WXfM/94845
+
+
+
+
 #EXTINF:-1,Magic tv
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
