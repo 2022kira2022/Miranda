@@ -6,6 +6,18 @@
 #EXTM3U
 
 
+#EXTINF:-1,
+
+#EXTINF:-1,unitel 1
+http://195.66.210.10:80/MgTv476/MKXPB/610877
+
+
+#EXTINF:-1,unitel 2
+http://195.66.210.10:80/MgTv476/MKXPB/610878
+
+#EXTINF:-1,unitel 3
+http://195.66.210.10:80/MgTv476/MKXPB/610877
+
 #EXTINF:-1,distrito 
 http://supersonictv.live:8080/216279/409791/61271
 
