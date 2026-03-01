@@ -19,6 +19,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/157589
 
 
+
+
+
+
 EXTINF:-,stat Chanel 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9723
 
@@ -218,28 +222,42 @@ https://nxt.plus:8443/Montano1/JhonMontano1/161146
 
 
 
+#EXTINF:-1,telefe
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/157589
+
+#EXTINF:-1,sony
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9713
+
+#EXTINF:-1,sony 2
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9712
+
+#EXTINF:-1,Hbo 2
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9674
+
+#EXTINF:-1,TNT
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9742
+
+#EXTINF:-1,tbs
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9737
 
 
 
+#EXTINF:-1, Warner 2
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9774
+
+
+#EXTINF:-1,warner 1
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9776
+
+
+#EXTINF:-1,distrito comedia
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9645
+
+#EXTINF:-1,Marvel
+http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/165068
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
