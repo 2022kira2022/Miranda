@@ -493,27 +493,41 @@ http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/9645
 http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/98495
 
 
+
+
+
+#EXTINF:-1,F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+
+
+#EXTINF:-1,Upea tv
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+
+
+
 #EXTINF:-1,baki 1
-https://setedu-my.sharepoint.com/personal/daniela_dominguez_docente_edu-tam_mx/Documents/Respaldo%20NEM/baki/baki-dou-el-samurai-invencible_Cap_1.mp4?ga=1
+https://setedu-my.sharepoint.com/:v:/g/personal/daniela_dominguez_docente_edu-tam_mx/IQDuC1TG-rcOQ57hIOke6ANhAccY-SjPKl1RKWnOOeuiGcI?download=11
 
 #EXTINF:-1,baki 2
-https://setedu-my.sharepoint.com/personal/daniela_dominguez_docente_edu-tam_mx/Documents/Respaldo%20NEM/baki/baki-dou-el-samurai-invencible_Cap_2.mp4?ga=1
+https://setedu-my.sharepoint.com/:v:/g/personal/daniela_dominguez_docente_edu-tam_mx/IQDrqP3JZtgZQJ7o-wBLX9r8Ab1XZdH6hvBstqBDkS4S-UY?download=1
 
 
 #EXTINF:-1,baki 3
-https://setedu-my.sharepoint.com/personal/daniela_dominguez_docente_edu-tam_mx/Documents/Respaldo%20NEM/baki/baki-dou-el-samurai-invencible_Cap_3.mp4?ga=1
+https://setedu-my.sharepoint.com/:v:/g/personal/daniela_dominguez_docente_edu-tam_mx/IQDrrti46wboS72u8rwu7Fy5AYcET54lwta6btcfNYh9sno?download=1
 
 
 #EXTINF:-1,baki 4
-https://setedu-my.sharepoint.com/personal/daniela_dominguez_docente_edu-tam_mx/Documents/Respaldo%20NEM/baki/baki-dou-el-samurai-invencible_Cap_4.mp4?ga=1
+https://setedu-my.sharepoint.com/:v:/g/personal/daniela_dominguez_docente_edu-tam_mx/IQDUN0D0OwzTRYMckuwPavZrAcqsAIGnrPuD5IUNHaJaxq8?download=1
 
 
 #EXTINF:-1,baki 5
-https://aulamex-my.sharepoint.com/personal/heidi_velazquez392_aulamexiquense_mx/Documents/Respaldo%20NEM/bakidu/baki-dou-el-samurai-invencible_Cap_5.mp4?ga=1
+https://aulamex-my.sharepoint.com/:v:/g/personal/heidi_velazquez392_aulamexiquense_mx/IQADKePW_NLmSo_cIBn4cZhrAePGhFMEcS4xjMzKTTyDk8Y?download=1
 
 
 #EXTINF:-1,baki 6
-https://aulamex-my.sharepoint.com/personal/heidi_velazquez392_aulamexiquense_mx/Documents/Respaldo%20NEM/bakidu/baki-dou-el-samurai-invencible_Cap_6.mp4?ga=1
+https://aulamex-my.sharepoint.com/:v:/g/personal/heidi_velazquez392_aulamexiquense_mx/IQDOkLt5wEdBQqakytz3VXtUAcuUtXBnyDHIItSgffu_6bY?download=1
 
 
 #EXTINF:-1,baki 7 
@@ -521,25 +535,25 @@ https://aulamex-my.sharepoint.com/personal/heidi_velazquez392_aulamexiquense_mx/
 
 
 #EXTINF:-1,baki 8
-https://aulamex-my.sharepoint.com/personal/heidi_velazquez392_aulamexiquense_mx/Documents/Respaldo%20NEM/bakidu/baki-dou-el-samurai-invencible_Cap_8.mp4?ga=1
+https://aulamex-my.sharepoint.com/:v:/g/personal/heidi_velazquez392_aulamexiquense_mx/IQANosQrT2KvRqu3DW8dWHeZAeM5nOh6tOD_Dx0DhuM8GYU?download=1
 
 
 #EXTINF:-1,baki 9
-https://aulamex-my.sharepoint.com/personal/saira_zamora613_aulamexiquense_mx/Documents/RNEM/bakiduo/baki-dou-el-samurai-invencible_Cap_9.mp4?ga=1
+https://aulamex-my.sharepoint.com/:v:/g/personal/saira_zamora613_aulamexiquense_mx/IQDeyB4d45FvTbQ6KybWN4NhAWUJF-1oAS7rCRTM2HPa-yg?download=1
 
 #EXTINF:-1,baki 10 
 https://aulamex-my.sharepoint.com/:v:/g/personal/saira_zamora613_aulamexiquense_mx/IQBRKVRT3wSHQp7yIxPJUhpnAVf9DM_Ho45FuD51hCfSlik?download=1
 
 #EXTINF:-1,baki 11
-https://aulamex-my.sharepoint.com/personal/saira_zamora613_aulamexiquense_mx/Documents/RNEM/bakiduo/baki-dou-el-samurai-invencible_Cap_11.mp4?ga=1
+https://aulamex-my.sharepoint.com/:v:/g/personal/saira_zamora613_aulamexiquense_mx/IQDeMkgTEpUIToKlYnHU6wW8AVTvmvQV66zhTVoYv1og3yw?download=1
 
 
 #EXTINF:-1,baki 12
-https://aulamex-my.sharepoint.com/personal/saira_zamora613_aulamexiquense_mx/Documents/RNEM/bakiduo/baki-dou-el-samurai-invencible_Cap_12.mp4?ga=1
+https://aulamex-my.sharepoint.com/:v:/g/personal/saira_zamora613_aulamexiquense_mx/IQDC5z2RM35oT7L4itvRuvFqASAoQsCuzHp0x8CLY5GWobI?download=1
 
 
 #EXTINF:-1,baki 13
-https://aulamex-my.sharepoint.com/personal/saira_zamora613_aulamexiquense_mx/Documents/RNEM/bakiduo/baki-dou-el-samurai-invencible_Cap_13.mp4?ga=1
+https://aulamex-my.sharepoint.com/:v:/g/personal/saira_zamora613_aulamexiquense_mx/IQAHen12_AJLTphrHWlwgS4zAZO5fw7Hr6pgBY9_O7YxyI8?download=1
 
 
 
