@@ -23,9 +23,18 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9645
 #EXTINF:-, Simpson 
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 
-#EXTINF:-,telefe
+#EXTINF:-,telefe 1
+
 http://tv.diablotv.net:8080/Freitestv/h6d7M5zAPe/157589
 
+
+#EXTINF:-,telefe 2
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157589
+
+
+
+#EXTINF:-,telefe 3
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157617
 
 
 #EXTINF:-1,Fox premium 
@@ -40,6 +49,17 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9722
 
 #EXTINF:-,fox sports 2
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9652
+
+
+
+#EXTINF:-, distrito 2
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9645
+
+
+
+
+#EXTINF:-, distrito comedia
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9644
 
 
 #EXTINF:-,Avatar
