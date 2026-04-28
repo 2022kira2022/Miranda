@@ -33,6 +33,13 @@ http://cinemagold.club:80//live/deTerhdew/VilMAr4635/317032.ts
 http://cinemagold.club:80//live/deTerhdew/VilMAr4635/316155.ts
 
 
+#EXTINF:-1,F10
+https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
+
+#EXTINF:-1,upeatv
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+
 #EXTINF:-1,Telefe
 http://cinemagold.club:80//live/deTerhdew/VilMAr4635/81285.ts
 
