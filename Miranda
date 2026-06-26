@@ -5,7 +5,7 @@
 
 #EXTM3U
 
-#
+
 #EXTINF:-1,Marvel 
 http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317137.ts
 
@@ -23,6 +23,15 @@ http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317155.ts
 
 #EXTINF:-1,comedia
 http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317116.ts
+
+
+
+#EXTINF:-1,el diablo viste 1
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/465136.mp4
+
+#EXTINF:-1,el diablo viste 2
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/536862.mp4
+
 
 #EXTINF:-1, distrito comedia
 http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/366260.ts
