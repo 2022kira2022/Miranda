@@ -5,121 +5,131 @@
 
 #EXTM3U
 
-#EXTINF:-1,bin bang
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/316947.ts
-
+#
 #EXTINF:-1,Marvel 
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/317137.ts
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317137.ts
 
-#EXTINF:-1,spider man
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/317151.ts
+#EXTINF:-1,Bien bang
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/316947.ts
 
-#EXTINF:-1,Star war
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/317152.ts
+#EXTINF:-1,chavo 
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/316936.ts
 
 #EXTINF:-1,super herues
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/317153.ts
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317153.ts
 
 #EXTINF:-1,terror
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/317155.ts
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317155.ts
 
-#EXTINF:-1,toy story 
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/317157.ts
+#EXTINF:-1,comedia
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317116.ts
 
-#EXTINF:-1,toy story 5
-http://192.168.15.7:30001/file/GMrFWMc3/video.mp4
+#EXTINF:-1, distrito comedia
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/366260.ts
 
-#EXTINF:-1,atb
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/262721.ts
+#EXTINF:-1,distrito comedia 
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/404304.ts
 
+#EXTINF:-1,Star Chanel
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/436007.ts
 
-#EXTINF:-1,red uno
-http://23.131.184.195:80//live/9C00D37FA627/D37FA6279C00/262709.ts
+#EXTINF:-1,Star Chanel
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/436010.ts
 
-#EXTINF:-1,ECu
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/401842.ts
-
-#EXTINF:-1,Unitel 
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/262715.ts
-
-
-#EXTINF:-1,Perú
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/540026.ts
-
-#EXTINF:-1, argentina 
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/540038.ts
-
-#EXTINF:-1,tyc
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/541533.ts
-
-#EXTINF:-1,spn
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/444055.ts
+#EXTINF:-1,Sony
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/1263.ts
 
 
-#EXTINF:-1,Vix pre
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/541549.ts
+#EXTINF:-1,sony
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/1261.ts
 
+#EXTINF:-1,Warner
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/1260.ts
 
-#EXTINF:-1,deportes
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/444070.ts
+#EXTINF:-1,americs
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/306667.ts
 
-#EXTINF:-1,Fútbol canal
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/316155.ts
-
-
-
-#EXTINF:-1,tyc 1
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/81253.ts
- 
-#EXTINF:-1,tyc 2
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/541533.ts
-
-#EXTINF:-1,azteca
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/362406.ts
-
-
-#EXTINF:-1,win sport
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/541536.ts
-
-#EXTINF:-1,dazn mundial
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/541547.ts
-
-#EXTINF:-1daz mundial
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/541547.ts
-
-#EXTINF:-1,spn
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/306870.ts
-
-#EXTINF:-1,América depo
+#EXTINF:-1,América
 http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/306666.ts
 
-#EXTINF:-1,spn mx
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/437843.ts
+#EXTINF:-1,América
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/81276.ts
 
-#EXTINF:-1,Unitel
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/262715.ts
+#EXTINF:-1,Telefe
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/541534.ts
+
+#EXTINF:-1,Telefe
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/81285.ts
+
+#EXTINF:-1,comedy central 
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/110115.ts
+
+#EXTINF:-1,comedy central
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/110116.ts
+
+#EXTINF:-1,fx
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/1275.ts
 
 
-#EXTINF:-1,evento deportivo 
-http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/542599.ts
+#EXTINF:-1,fx 2
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/317527.ts
 
-#EXTINF:-1,Heman
-http://mundo2.vip:80/movie/1bopl31e3/4347767hd/541715.mp4
+#EXTINF:-1,tnt
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/1247.ts
 
-#EXTINF:-1,mortal Kombat
-http://mundo2.vip:80/movie/1bopl31e3/4347767hd/541438.mp4
+#EXTINF:-1,tnt
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/1248.ts
+
+#EXTINF:-1,tnt sr
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/1250.ts
+
+#EXTINF:-1,tnt serie 
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/99829.ts
+
+
+
+#EXTINF:-1,Digimon 2 pelicula
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/458490.mp4
+
+#EXTINF:-1,tv publica
+http://mundo2.vip:80//live/7B9D819DD8D2/7B9D819DD8D/81265.ts
+
+
+
+
+#EXTINF:-1,el diablo viste 1
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/465136.mp4
+
+#EXTINF:-1,el diablo viste 2
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/536862.mp4
+
+
+
+#EXTINF:-1,posesión de la momia
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/537139.mp4
 
 #EXTINF:-1,Michael
-http://mundo2.vip:80/movie/1bopl31e3/4347767hd/541435.mp4
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/541435.mp4
+
+#EXTINF:-1,criaturas luminosas
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/536840.mp4
+
+#EXTINF:-1,drama
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/536838.mp4
+
+#EXTINF:-1,mortal Kombat 2
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/541438.mp4
+
+
+#EXTINF:-1,fin del mundo
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/536831.mkv
+
+#EXTINF:-1,fin del mundo 
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/532517.mp4
 
 #EXTINF:-1,mandalorian
-http://mundo2.vip:80/movie/1bopl31e3/4347767hd/540835.mp4
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/538105.mp4
 
-#EXTINF:-1,día lo viste a la moda 
-http://mundo2.vip:80/movie/1bopl31e3/4347767hd/536862.mp4
-
-#EXTINF:-1,distrito comedia
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/366260.ts
 
 
 #EXTINF:-1,hit music
