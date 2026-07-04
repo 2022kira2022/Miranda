@@ -23,12 +23,23 @@ http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/547093.mp4
 http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/547114.mp4
 
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,red uno
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/262709.ts
+
+#EXTINF:-1,unitel
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/262715.ts
+
+#EXTINF:-1,bolivision
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/262729.ts
+
+#EXTINF:-1,atb
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/262721.ts
+
+#EXTINF:-1,rtp
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/262733.ts
+
+#EXTINF:-1,tigo
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/360920.ts
 
 #EXTINF:-1,Toys Tory  todo el dia
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317157.ts
