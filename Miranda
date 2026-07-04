@@ -4,7 +4,14 @@
 #EXTM3U
 
 
-#EXTINF:-1, F10
+
+
+#EXTINF:-1,Dspor argentina
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/540038.ts
+
+
+
+#EXTINF:-1,F10
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 
 #EXTINF:-1,upea tv
