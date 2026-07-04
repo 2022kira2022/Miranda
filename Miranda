@@ -4,24 +4,96 @@
 #EXTM3U
 
 
+#EXTINF:-1, F10
+https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 
-#EXTINF:-1, Argentina 1
-https://nubexplay.com:8443/play/9bYWWZsR852ZxvXdbpDe8zcyd2tUEJZ8vp9IgvMMG7ijkdi2_JnFv_HgHW1fly8C
-
-#EXTINF:-1, Argentina  2
-https://nubexplay.com:8443/play/9bYWWZsR852ZxvXdbpDe8zcyd2tUEJZ8vp9IgvMMG7jHXsfZzG0wUrBol0-MUpEt
-
-
-#EXTINF:-1, Argentina  3
-https://nubexplay.com:8443/play/9bYWWZsR852ZxvXdbpDe8zcyd2tUEJZ8vp9IgvMMG7gqmaSWpTpawhtiiyXlMoGd
-
-#EXTINF:-1, Argentina  4
-https://nubexplay.com:8443/play/9bYWWZsR852ZxvXdbpDe8zcyd2tUEJZ8vp9IgvMMG7jmULl06uxkb9Rt_xXL5ipl
+#EXTINF:-1,upea tv
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 
-#EXTINF:-1, Argentina  5
-https://nubexplay.com:8443/play/9bYWWZsR852ZxvXdbpDe8zcyd2tUEJZ8vp9IgvMMG7h_tK6jOWpHLmVadPD3fna6
 
+
+
+
+#EXTINF:-1,SCARy Movie
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/547093.mp4
+
+
+#EXTINF:-1,super girls
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/547114.mp4
+
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+#EXTINF:-1,Toys Tory  todo el dia
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317157.ts
+
+
+#EXTINF:-1,Toys Tory 5
+http://mundo2.vip:80/movie/7B9D819DD8D2/7B9D819DD8D/543507.mp4
+
+
+#EXTINF:-1,Futurama
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/316942.ts
+
+#EXTINF:-1,Bob sponja
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/362432.ts
+
+#EXTINF:-1,Batman
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317109.ts.
+
+#EXTINF:-1,Crepúsculo
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317117.ts
+
+#EXTINF:-1,destino final
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317120.ts
+
+#EXTINF:-1,Dreamworks
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317123.ts
+
+#EXTINF:-1,películas estrenos
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317127.ts
+
+#EXTINF:-1,jim carrey
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317131.ts
+
+
+#EXTINF:-1,jurrasic parck
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317132.ts
+
+#EXTINF:-1,marvel
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317137.ts
+
+#EXTINF:-1,mi pobre angelito 
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317138.ts
+
+#EXTINF:-1,Pixsar
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317145.ts
+
+#EXTINF:-1,rápidos y furiosos
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317146.ts
+
+#EXTINF:-1,sherk
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317150.ts
+
+
+#EXTINF:-1,Spiderman
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
+
+#EXTINF:-1,herues
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
+
+
+#EXTINF:-1,X-Men
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317159.ts
+
+#EXTINF:-1,dragón ball z
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/475229.ts
 
 
 #EXTINF:-1,americs
