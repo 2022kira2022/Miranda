@@ -13,6 +13,12 @@ http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/540038.ts
 https://nubexplay.com:8443/play/9bYWWZsR852ZxvXdbpDe8zcyd2tUEJZ8vp9IgvMMG7jM4HW63zYHtsfbqDaOAzdq
 
 
+#EXTINF:-1,F10
+https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
+
+#EXTINF:-1,upea tv
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
 #EXTINF:-1,bin bang 1 al 6
 https://nubexplay.com:8443/play/9bYWWZsR852ZxvXdbpDe8zcyd2tUEJZ8vp9IgvMMG7jya4PxXAZWEG554cjjaYY3
 
