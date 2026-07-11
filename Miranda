@@ -4,6 +4,41 @@
 #EXTM3U
 
 
+#EXTINF:-1,Telefe
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/490458.m3u8
+
+
+#EXTINF:-1,tyc
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/327918.m3u8
+
+#EXTINF:-1,Warner
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/414486.m3u8
+
+#EXTINF:-1,azteca 7
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/534771.m3u8
+
+#EXTINF:-1,5 ff
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/135430.m3u8
+
+#EXTINF:-1,América
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/428948.m3u8
+
+#EXTINF:-1,América
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/429002.m3u8
+
+#EXTINF:-1,Telefe
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/490458.m3u8
+
+#EXTINF:-1,distrito comedia
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/534781.m3u8
+
+#EXTINF:-1,bin bang 1-6
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526563.m3u8
+
+#EXTINF:-1,bin bang 7-12
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526564.m3u8
+
+
 
 
 #EXTINF:-1,Dspor argentina
