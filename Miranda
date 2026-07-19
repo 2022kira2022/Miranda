@@ -5,6 +5,10 @@
 
 
 #EXTINF:-1,Telefe
+https://ss.domain77654422122.sbs/global/telefe/index.m3u8?token=aad408dd1096c28fcf53c9267e2fb5e75c843b91-d4-1784532283-1784478283&ip=179.116.2.183
+
+
+#EXTINF:-1,telefe2
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/490458.m3u8
 
 
