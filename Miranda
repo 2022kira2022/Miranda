@@ -3,6 +3,11 @@
 
 #EXTM3U
 
+#EXTINF:-1,122 canales
+http://127.0.0.1:25840/main/0/storage/emulated/0/Download/Telegram/122%20CANALES%20EN%20VIVO%20Y%20EN%20DIRECTO.html
+
+
+
 
 #EXTINF:-1,Telefe
 https://ss.domain77654422122.sbs/global/telefe/index.m3u8?token=aad408dd1096c28fcf53c9267e2fb5e75c843b91-d4-1784532283-1784478283&ip=179.116.2.183
