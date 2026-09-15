@@ -6,6 +6,47 @@
 #EXTINF:-1,122 canales
 http://127.0.0.1:25840/main/0/storage/emulated/0/Download/Telegram/122%20CANALES%20EN%20VIVO%20Y%20EN%20DIRECTO.html
 
+
+#EXTINF:-1,aye
+http://201.182.249.201:8000/play/a0lb/index.m3u8
+
+
+#EXTINF:-1,Warner
+http://201.182.249.201:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1,space
+http://201.182.249.201:8000/play/a0ly/index.m3u8
+
+#EXTINF:-1,comedy central 
+http://201.182.249.201:8000/play/a0qq/index.m3u8
+
+#EXTINF:-1,Sony
+http://201.182.249.201:8000/play/a0o9/index.m3u8
+
+#EXTINF:-1,HBO extrema
+http://201.182.249.201:8000/play/a0mo/index.m3u8
+
+#EXTINF:-1,cine canal
+http://201.182.249.201:8000/play/a0ny/index.m3u8
+
+#EXTINF:-1,universal Chanel 
+http://201.182.249.201:8000/play/a0qs/index.m3u8
+
+#EXTINF:-1,adul swing
+http://201.182.249.201:8000/play/a0pt/index.m3u8
+
+#EXTINF:-1,animal planeta
+http://201.182.249.201:8000/play/a0h1/index.m3u8
+
+#EXTINF:-1,HBO 
+http://201.182.249.201:8000/play/a0qx/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,space
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/414501.m3u8
 
