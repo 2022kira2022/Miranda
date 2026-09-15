@@ -7,6 +7,29 @@
 http://127.0.0.1:25840/main/0/storage/emulated/0/Download/Telegram/122%20CANALES%20EN%20VIVO%20Y%20EN%20DIRECTO.html
 
 
+#EXTINF:-1,HBO 
+http://201.182.249.201:8000/play/a0qx/index.m3u8
+
+
+#EXTINF:-1,nik
+http://201.182.249.201:8000/play/a0mg/index.m3u8
+
+
+
+#EXTINF:-1,Star Chanel 
+http://201.182.249.201:8000/play/a0m1/index.m3u8
+
+#EXTINF:-1,TNT
+http://201.182.249.201:8000/play/a0q0/index.m3u8
+
+#EXTINF:-1,TNT series
+http://201.182.249.201:8000/play/a0qw/index.m3u8
+
+
+#EXTINF:-1,TNT premium 
+http://201.182.249.201:8000/play/a0md/index.m3u8
+
+
 #EXTINF:-1,aye
 http://201.182.249.201:8000/play/a0lb/index.m3u8
 
